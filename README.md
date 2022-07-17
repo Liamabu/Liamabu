@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liamabu
 - 👀 I’m interested in learning more and more, evolving my skills, and becoming better.
-- 🌱 I’m currently learning C++ / C#.
+- 🌱 I’m currently mastering Python / C# / Javascript.
 - 💞️ I’m looking to collaborate on ALL PROJECTS KINDS.
 - 📫 How to reach me JustMe#0001 or @LiamAbu_Dev
 
